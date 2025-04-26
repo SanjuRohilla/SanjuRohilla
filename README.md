@@ -43,6 +43,9 @@
   <a href="https://www.instagram.com/sanjurohilla27/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+   <a href="https://leetcode.com/u/Sanju2005/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=#fff000F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
   <a href="mailto:sanjurohillla2022@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D1483&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
