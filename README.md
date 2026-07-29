@@ -7,7 +7,7 @@
 </p>
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" /> -->
-<img src="https://www.image2url.com/r2/default/gifs/1785352986913-6b243fbe-643d-4bd4-a941-f6fa976dbc0c.gif" alt="Cat GIF" width="45%"/>
+<img src="https://www.image2url.com/r2/default/gifs/1785352986913-6b243fbe-643d-4bd4-a941-f6fa976dbc0c.gif" alt="Cat GIF" width="30%"/>
 
 
 ## 📌 About Me
