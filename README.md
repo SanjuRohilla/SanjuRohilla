@@ -11,15 +11,14 @@
 
 
 ## 📌 About Me
-- 💻 Web Developer
-- 🎓 Biotechnology Undergraduate at NIT Raipur
-- ⚛️ Building with React, Next.js & Tailwind CSS
-- 🎨 Creating interactive UIs with Three.js & GSAP
-- 📊 Exploring Data Analytics & Interactive Dashboards
-- 🤖 Exploring AI & Agentic Workflows
-- 🧩 Solving DSA in C++
-- 🌱 Always learning, always building
 
+- 💻 Full-stack Web Developer skilled in React.js, Next.js, Node.js, and MongoDB — building real, deployed projects
+- 📊 Data Analyst experienced in Power BI, SQL, DAX, and Python — turning raw data into dashboards and business insights
+- 🎓 B.Tech Biotechnology student at NIT Raipur, blending a science-driven analytical mindset with software engineering
+- 🚀 Built and shipped projects like an AI interview platform (Prepwise) and an interactive Power BI healthcare dashboard
+- 🏆 Competitive programmer (LeetCode) | SIH National Finalist | NBC Ideathon Semi-Finalist
+- 🌱 Currently exploring frontend engineering + data storytelling as complementary skill sets
+- 💬 Ask me about React, Power BI dashboards, or DAX measures
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -57,7 +56,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
 </p>
 
 <h3 align="center">Backend</h3>
